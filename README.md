@@ -1,5 +1,9 @@
 **[WORK IN PROGRESS]**
 
+This project is just a way for me to learn coding and design applications that I need or find cool. This one is for fixing low-resolution and/or blurry images. Will work on it during my free time
+
+<br>
+
 **Real-ESRGAN Image Upscaler**
 
 A simple desktop application with a graphical user interface (GUI) for upscaling images using the powerful Real-ESRGAN models.
@@ -99,3 +103,5 @@ python app-realesrgan.py
 This application is a simple GUI wrapper for the models developed by Xintao Wang et al.
 
 Original Project: https://github.com/xinntao/Real-ESRGAN
+
+And Google Gemini 2.5 Pro
